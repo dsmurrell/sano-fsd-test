@@ -1,7 +1,6 @@
 {
     "env": "local",
-    "connection_string": "postgresql://willgdjones@localhost:5432/template1",
-    "test_connection_string": "postgresql://willgdjones@localhost:5432/test",
+    "connection_string": "postgresql://localhost/fsd",
     "jwt_secret": "]nGQWnDQneT81L]rY",
     "secret_salt": "$2b$12$Qonofa6lGPWUZ2acht.YW.",
     "base_url": "http://localhost:2000"

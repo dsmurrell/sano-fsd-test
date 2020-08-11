@@ -1,7 +1,0 @@
-bcrypt
-flask_cors
-peewee
-psycopg2-binary
-pyjwt
-
-git+https://github.com/sanogenetics/peewee-db-evolve@3b38dc1ffbbf7ac79473ba34ee31c9d7b9a6b22e
